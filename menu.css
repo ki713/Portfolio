@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: sans-serif;
+}
+.nav
+{
+    background: lightsalmon;
+    height: 80px;
+    width: 100%;
+}
+label .logo
+{
+    color: #fff;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: 500px;
+}
